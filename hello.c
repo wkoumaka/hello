@@ -4,5 +4,7 @@ int main(void){
   printf("computer engnering")
   printf("Tyler Messerschmidt");
   printf("Electrical Engineer");
+  printf("Kyle Aranda");
+  printf("Electrical Engineering");
   return0;
 }
