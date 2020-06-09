@@ -7,5 +7,6 @@
 #include <stdio.h>
    int main(int argc, char **argv) {
      printf("Wil Koumaka\n");
+     printf("computer and electrical engenering\n");
      return 0;
 }
